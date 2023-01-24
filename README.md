@@ -1,10 +1,17 @@
 # **ASSIGNMENT 1**
 
-Student ID :700749050
+  Student ID :700749050
+  Name:Meghana Chodagiri
+  Course: CS5710
+  CRN Number: 232922
+  Room No: MIC B252
 
-Name:Meghana Chodagiri
+Technology used:
+  Python 3
 
-Course: CS5710
-CRN Number: 232922
-Room No: MIC B252
+Tools Used :
+  Jupyter Notebook
+  Word Document
+
+Question1:
 
