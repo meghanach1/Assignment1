@@ -18,9 +18,11 @@ Technology used:
 
 Tools Used for the assignment :
         
-    Jupyter Notebook,
-    Anaconda navigator,
+    Jupyter Notebook
+    Anaconda navigator
     Word Document
+    Screen recording application
+    Github
  
 Installation process of anaconda and jupyter: 
 
