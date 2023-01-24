@@ -63,7 +63,36 @@ Installation process of anaconda and jupyter:
 
 **Assignment Long description :**
 
-**Question 1:**
+Question 1:
+
+    The following is a list of 10 students ages:
+    ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
+    • Sort the list and find the min and max age
+    • Add the min age and the max age again to the list
+    • Find the median age (one middle item or two middle items divided by two)
+    • Find the average age (sum of all items divided by their number)
+    • Find the range of the ages (max minus min)
+Answer 1:
+      
+    Given the list of ages of 10 students , for sorting the list, I have used in- built sort() method, and to find the max and min values of the list, i       have used default max() and min() list methods. 
+
+Question 2:
+
+Question 3:
+
+Question 4:
+
+Question 5:
+
+Question 6:
+
+Question 7:
+
+Question 8:
+
+Question 9 :
+
+Question 10:
 
 
 
