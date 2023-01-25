@@ -12,7 +12,7 @@
  
      Programs on Lists, Sets, Dictionaries, Tuples , String formatting, Strings , Mathematical programs using python language and Machine learning Algorithms like understanding K Nearest Neighbor algorithm, splitting of training and test data, analyzing the data model, computing the confusion matrix and calculating accuracy, sensitivity and specificity values.
 
-Technology used:
+Languages used:
           
     Python 3
 
