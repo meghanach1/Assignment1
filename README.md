@@ -8,6 +8,12 @@
   
   CRN Number: 232922
   
+  GitHub Link: https://github.com/meghanach1/Assignment1
+
+  VideoLink:
+  https://drive.google.com/file/d/1vD0Z9TxG4dfZpRCRZcP34d9CV7x_rFYQ/view?us p=share_link
+
+  
  Assignment Short Descrpition:
  
      Programs on Lists, Sets, Dictionaries, Tuples , String formatting, Strings , Mathematical programs using python language and Machine learning Algorithms like understanding K Nearest Neighbor algorithm, splitting of training and test data, analyzing the data model, computing the confusion matrix and calculating accuracy, sensitivity and specificity values.
